@@ -9,21 +9,20 @@ My solutions for Interview Master’s 24-day SQL Advent Calendar challenge (SQLi
 - 24 SQL solutions (Day 01 → Day 24)
 - Topics: joins, aggregations, window functions, CTEs
 
+## Skills practiced
+- Filtering & sorting (WHERE, ORDER BY, LIMIT)
+- Aggregations (COUNT, SUM, AVG) + GROUP BY / HAVING
+- Joins (INNER / LEFT) and data matching
+- Window functions (OVER, PARTITION BY, running totals, ranking)
+- CTEs (WITH) for step-by-step logic
+- Writing clean, readable SQL (aliases, formatting, structure)
+
 ## Structure
 - `solutions/` — daily solutions (`day-01.sql` … `day-24.sql`)
 
 ## Certificate
-<img width="711" height="550" alt="{C5C97348-C4B1-411C-898F-F5A7B196D772}" src="https://github.com/user-attachments/assets/1d7a7af3-bb0c-4f17-b6f3-5a264d58be23" />
-
+<img src="https://github.com/user-attachments/assets/5e3cc951-c830-45de-b0f6-d478f8756791" width="350" alt="SQL Advent Calendar 2025 Certificate">
 
 ## Links
 - Challenge page: https://www.interviewmaster.ai/advent
 - Repo: https://github.com/Liudmyla-D/sql-advent-calendar-2025
-
-
-
-
-
-
-
-
